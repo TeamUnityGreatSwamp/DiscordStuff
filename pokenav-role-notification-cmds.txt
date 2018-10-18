@@ -1,0 +1,246 @@
+
+  ####################
+  # Berkeley-Heights #
+  ####################
+
+!create notify-rule Berkeley-Heights                    "gym: ALU Exer Trail 1"
+!create notify-rule Berkeley-Heights                    "gym: Berkeley Heights 9-11 Memorial"
+!create notify-rule Berkeley-Heights                    "gym: Berkeley Heights Public Library"
+!create notify-rule Berkeley-Heights                    "gym: Berkeley Heights Train Station"
+!create notify-rule Berkeley-Heights                    "gym: Bird Nests"
+!create notify-rule Berkeley-Heights                    "gym: Birth Place of Transistor"
+!create notify-rule Berkeley-Heights                    "gym: Cucina Italiana Di Maio Etching"
+!create notify-rule Berkeley-Heights                    "gym: Deserted Village"
+!create notify-rule Berkeley-Heights                    "gym: Diamond Hill Church"
+!create notify-rule Berkeley-Heights                    "gym: Dr. Robert A. Laudise"
+!create notify-rule Berkeley-Heights                    "gym: Mountain Ridge Bible Chapel"
+!create notify-rule Berkeley-Heights                    "gym: Passaic River Park"
+!create notify-rule Berkeley-Heights                    "gym: Passaic River Park Canoe Launch"
+!create notify-rule Berkeley-Heights                    "gym: Snyder Park"
+
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: ALU Exer Trail 1"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Berkeley Heights 9-11 Memorial"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Berkeley Heights Public Library"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Berkeley Heights Train Station"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Bird Nests"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Birth Place of Transistor"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Cucina Italiana Di Maio Etching"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Deserted Village"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Diamond Hill Church"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Dr. Robert A. Laudise"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Mountain Ridge Bible Chapel"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Passaic River Park"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Passaic River Park Canoe Launch"
+!create notify-rule Berkeley-Heights-L5-Raids "tier: 5" "gym: Snyder Park"
+
+  ###########
+  # Chatham #
+  ###########
+
+!create notify-rule Chatham                             "gym: Chatham Borough Mural Part 1"
+!create notify-rule Chatham                             "gym: Chatham Playhouse"
+!create notify-rule Chatham                             "gym: Fairmount Cemetery (Upper)"
+!create notify-rule Chatham                             "gym: Minisink Paddle"
+!create notify-rule Chatham                             "gym: Ogden Memorial Church"
+!create notify-rule Chatham                             "gym: Stanley Park"
+!create notify-rule Chatham                             "gym: Shepard Kollock Park"
+!create notify-rule Chatham                             "gym: United Methodist Church"
+!create notify-rule Chatham                             "gym: US Post Office, Main St, Chatham"
+
+!create notify-rule Chatham-L5-Raids          "tier: 5" "gym: Chatham Borough Mural Part 1"
+!create notify-rule Chatham-L5-Raids          "tier: 5" "gym: Chatham Playhouse"
+!create notify-rule Chatham-L5-Raids          "tier: 5" "gym: Fairmount Cemetery (Upper)"
+!create notify-rule Chatham-L5-Raids          "tier: 5" "gym: Minisink Paddle"
+!create notify-rule Chatham-L5-Raids          "tier: 5" "gym: Ogden Memorial Church"
+!create notify-rule Chatham-L5-Raids          "tier: 5" "gym: Stanley Park"
+!create notify-rule Chatham-L5-Raids          "tier: 5" "gym: Shepard Kollock Park"
+!create notify-rule Chatham-L5-Raids          "tier: 5" "gym: United Methodist Church"
+!create notify-rule Chatham-L5-Raids          "tier: 5" "gym: US Post Office, Main St, Chatham"
+
+  ####################
+  # Chatham-Township #
+  ####################
+
+!create notify-rule Chatham-Township                    "gym: Asian Warrior"
+!create notify-rule Chatham-Township                    "gym: Castle Playground"
+!create notify-rule Chatham-Township                    "gym: Chatham Colony Association"
+!create notify-rule Chatham-Township                    "gym: Chatham Township WWII Memorial"
+!create notify-rule Chatham-Township                    "gym: Colony Pool and Tennis Center"
+!create notify-rule Chatham-Township                    "gym: Gates Park"
+!create notify-rule Chatham-Township                    "gym: Landau Wildlife Sanctuary"
+!create notify-rule Chatham-Township                    "gym: Prayer of the Woods"
+!create notify-rule Chatham-Township                    "gym: Presbyterian Church"
+!create notify-rule Chatham-Township                    "gym: Price-Baldwin House"
+
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Asian Warrior"
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Castle Playground"
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Chatham Colony Association"
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Chatham Township WWII Memorial"
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Colony Pool and Tennis Center"
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Gates Park"
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Landau Wildlife Sanctuary"
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Prayer of the Woods"
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Presbyterian Church"
+!create notify-rule Chatham-Township-L5-Raids "tier: 5" "gym: Price-Baldwin House"
+
+  ################
+  # Florham-Park #
+  ################
+
+!create notify-rule Florham-Park                        "gym: Florham Park Town Hall"
+!create notify-rule Florham-Park                        "gym: Florham Park Water Tower"
+!create notify-rule Florham-Park                        "gym: Keeler Courts"
+!create notify-rule Florham-Park                        "gym: Orpheus"
+!create notify-rule Florham-Park                        "gym: Parker Grove"
+!create notify-rule Florham-Park                        "gym: Pinch Brook Golf Course"
+!create notify-rule Florham-Park                        "gym: Shakespeare Theatre of New Jersey"
+!create notify-rule Florham-Park                        "gym: Ulysses Statue"
+!create notify-rule Florham-Park                        "gym: Vocationist Fathers"
+!create notify-rule Florham-Park                        "gym: Walter T Savage"
+
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Florham Park Town Hall"
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Florham Park Water Tower"
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Keeler Courts"
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Orpheus"
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Parker Grove"
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Pinch Brook Golf Course"
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Shakespeare Theatre of New Jersey"
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Ulysses Statue"
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Vocationist Fathers"
+!create notify-rule Florham-Park-L5-Raids     "tier: 5" "gym: Walter T Savage"
+
+  #################
+  # Madison-North #
+  #################
+
+!create notify-rule Madison-North                       "gym: Baldwin Hall"
+!create notify-rule Madison-North                       "gym: Drew University Gate"
+!create notify-rule Madison-North                       "gym: F. M. Kirby Shakespeare Theatre"
+!create notify-rule Madison-North                       "gym: James Park Memorial Walk"
+!create notify-rule Madison-North                       "gym: Gibbons Pines Park"
+!create notify-rule Madison-North                       "gym: Kinney Park"
+!create notify-rule Madison-North                       "gym: Madison Recreation Complex"
+!create notify-rule Madison-North                       "gym: Saint Vincent Martyr"
+!create notify-rule Madison-North                       "gym: St.Paul Inside the Wall"
+!create notify-rule Madison-North                       "gym: Wesley House"
+
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: Baldwin Hall"
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: Drew University Gate"
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: F. M. Kirby Shakespeare Theatre"
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: James Park Memorial Walk"
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: Gibbons Pines Park"
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: Kinney Park"
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: Madison Recreation Complex"
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: Saint Vincent Martyr"
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: St.Paul Inside the Wall"
+!create notify-rule Madison-North-L5-Raids    "tier: 5" "gym: Wesley House"
+
+  #################
+  # Madison-South #
+  #################
+
+!create notify-rule Madison-South                       "gym: Cole Park Fountain"
+!create notify-rule Madison-South                       "gym: Hartley Dodge Memorial"
+!create notify-rule Madison-South                       "gym: Hillside Cemetery Circa 1747"
+!create notify-rule Madison-South                       "gym: In Honor of Joe Vitale"
+!create notify-rule Madison-South                       "gym: Livesey Park"
+!create notify-rule Madison-South                       "gym: Madison Fire Department"
+!create notify-rule Madison-South                       "gym: Madison Post Office"
+!create notify-rule Madison-South                       "gym: Ralph 'Butter' Maione"
+!create notify-rule Madison-South                       "gym: Tuttle Oak II"
+
+!create notify-rule Madison-South-L5-Raids    "tier: 5" "gym: Cole Park Fountain"
+!create notify-rule Madison-South-L5-Raids    "tier: 5" "gym: Hartley Dodge Memorial"
+!create notify-rule Madison-South-L5-Raids    "tier: 5" "gym: Hillside Cemetery Circa 1747"
+!create notify-rule Madison-South-L5-Raids    "tier: 5" "gym: In Honor of Joe Vitale"
+!create notify-rule Madison-South-L5-Raids    "tier: 5" "gym: Livesey Park"
+!create notify-rule Madison-South-L5-Raids    "tier: 5" "gym: Madison Fire Department"
+!create notify-rule Madison-South-L5-Raids    "tier: 5" "gym: Madison Post Office"
+!create notify-rule Madison-South-L5-Raids    "tier: 5" "gym: Ralph 'Butter' Maione"
+!create notify-rule Madison-South-L5-Raids    "tier: 5" "gym: Tuttle Oak II"
+
+  ##################
+  # New-Providence #
+  ##################
+
+!create notify-rule New-Providence                      "gym: Basketball Court"
+!create notify-rule New-Providence                      "gym: Coppola's Mural"
+!create notify-rule New-Providence                      "gym: Dim Sum Lion"
+!create notify-rule New-Providence                      "gym: New Providence Community Pool"
+!create notify-rule New-Providence                      "gym: New Providence Station"
+!create notify-rule New-Providence                      "gym: New Providence Veterans Memorial"
+!create notify-rule New-Providence                      "gym: New Providence World War Memorial"
+!create notify-rule New-Providence                      "gym: Presbyterian Cemetery"
+!create notify-rule New-Providence                      "gym: St. Andrew's Episcopal Church"
+!create notify-rule New-Providence                      "gym: Warner Field (Field of Dreams)"
+
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: Basketball Court"
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: Coppola's Mural"
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: Dim Sum Lion"
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: New Providence Community Pool"
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: New Providence Station"
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: New Providence Veterans Memorial"
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: New Providence World War Memorial"
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: Presbyterian Cemetery"
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: St. Andrew's Episcopal Church"
+!create notify-rule New-Providence-L5-Raids   "tier: 5" "gym: Warner Field (Field of Dreams)"
+
+  ##########
+  # Summit #
+  ##########
+                                     
+!create notify-rule Summit                              "gym: Dedicated to Annmarie Sabatino"
+!create notify-rule Summit                              "gym: Martin's Brook Park"
+!create notify-rule Summit                              "gym: Mt. Olive Temple"
+!create notify-rule Summit                              "gym: Pilgrim Baptist Church"
+!create notify-rule Summit                              "gym: Silver Sentinel"
+!create notify-rule Summit                              "gym: Summit Promenade  Fountain"
+!create notify-rule Summit                              "gym: Summit Track"
+!create notify-rule Summit                              "gym: Summit Train Station"
+!create notify-rule Summit                              "gym: The Grand Summit Hotel"
+!create notify-rule Summit                              "gym: Turkey Hill Inn"
+!create notify-rule Summit                              "gym: United Methodist Church of Summit"
+!create notify-rule Summit                              "gym: Walter F. Waldu"
+
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Dedicated to Annmarie Sabatino"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Martin's Brook Park"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Mt. Olive Temple"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Pilgrim Baptist Church"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Silver Sentinel"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Summit Promenade  Fountain"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Summit Track"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Summit Train Station"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: The Grand Summit Hotel"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Turkey Hill Inn"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: United Methodist Church of Summit"
+!create notify-rule Summit-L5-Raids           "tier: 5" "gym: Walter F. Waldu"
+
+  ##########################
+  # Ex-Gym-Raids-Northwest #
+  ##########################
+
+!create notify-rule Ex-Gym-Raids-Northwest              "gym: Castle Playground"
+!create notify-rule Ex-Gym-Raids-Northwest              "gym: Cole Park Fountain"
+!create notify-rule Ex-Gym-Raids-Northwest              "gym: Colony Pool and Tennis Center"
+!create notify-rule Ex-Gym-Raids-Northwest              "gym: Loantaka Brook Reservation"
+!create notify-rule Ex-Gym-Raids-Northwest              "gym: Shepard Kollock Park"
+!create notify-rule Ex-Gym-Raids-Northwest              "gym: Tuttle Oak II"
+!create notify-rule Ex-Gym-Raids-Northwest              "gym: Ulysses Statue"
+
+  ##########################
+  # Ex-Gym-Raids-Southeast #
+  ##########################
+
+!create notify-rule Ex-Gym-Raids-Southeast              "gym: Dedicated to Annmarie Sabatino"
+!create notify-rule Ex-Gym-Raids-Southeast              "gym: New Providence Veterans Memorial"
+!create notify-rule Ex-Gym-Raids-Southeast              "gym: Summit Track"
+!create notify-rule Ex-Gym-Raids-Southeast              "gym: Walter F. Waldu"
+
+  #################
+  # Raid Monsters #
+  #################
+
+!create notify-rule Shinx     "boss: Shinx"
+!create notify-rule Shinx     "boss: Shinx"
+!create notify-rule Mewtwo    "boss: Mewtwo"
+!create notify-rule Tyranitar "boss: Tyranitar"
