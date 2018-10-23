@@ -240,7 +240,8 @@
   # Raid Monsters #
   #################
 
-!create notify-rule Shinx     "boss: Shinx"
-!create notify-rule Shinx     "boss: Shinx"
+!create notify-rule Bidoof    "boss: Bidoof"
+!create notify-rule Buneary   "boss: Buneary"
+!create notify-rule Giratina  "boss: Giratina"
 !create notify-rule Mewtwo    "boss: Mewtwo"
 !create notify-rule Tyranitar "boss: Tyranitar"
